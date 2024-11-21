@@ -7,4 +7,4 @@
 - IO.puts : Feels like console.log in js.
 
 **bash**
-```bash elixir main.ex``` 
+```elixir main.ex``` 
